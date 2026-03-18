@@ -1,0 +1,144 @@
+                                 _____________________________
+
+                                        SaTScan v10.3.3
+                                 _____________________________
+
+
+Program run on: Tue Mar 17 12:24:29 2026
+
+Purely Spatial analysis
+scanning for clusters with low rates
+using the Bernoulli model
+with iterative analyses for secondary clusters.
+_______________________________________________________________________________________________
+
+SUMMARY OF DATA
+
+Study period.......................: 2000/1/1 to 2000/12/31
+Number of locations................: 59
+Total population...................: 22
+Total number of cases..............: 17
+Percent cases......................: 77.3
+_______________________________________________________________________________________________
+
+CLUSTER DETECTED
+
+1.Location IDs included.: location39, location37, location38, location41
+  Coordinates / radius..: (6.275958 N, 75.619252 W) / 0.46 km
+  Span..................: 0.58 km
+  Population............: 3
+  Number of cases.......: 0
+  Expected cases........: 2.32
+  Observed / expected...: 0
+  Relative risk.........: 0
+  Percent cases in area.: 0
+  Log likelihood ratio..: 5.397698
+  P-value...............: 0.190
+_______________________________________________________________________________________________
+
+ADDITIONAL RESULTS FILES
+
+Shapefile            : C:\Users\diego.rincon\Desktop\R projects\medellin\RoblClus\RoblOutLo.col.shp
+Shapefile            : C:\Users\diego.rincon\Desktop\R projects\medellin\RoblClus\RoblOutLo.gis.shp
+Cluster Information  : C:\Users\diego.rincon\Desktop\R projects\medellin\RoblClus\RoblOutLo.col.dbf
+Location Information : C:\Users\diego.rincon\Desktop\R projects\medellin\RoblClus\RoblOutLo.gis.dbf
+_______________________________________________________________________________________________
+
+PARAMETER SETTINGS
+
+Input
+-----
+  Case File        : C:\Users\diego.rincon\Robl.cas
+  Control File     : C:\Users\diego.rincon\Robl.ctl
+  Time Precision   : None
+  Start Date       : 2000/1/1
+  End Date         : 2000/12/31
+  Coordinates File : C:\Users\diego.rincon\Robl.geo
+  Coordinates      : Latitude/Longitude
+
+Analysis
+--------
+  Type of Analysis    : Purely Spatial
+  Probability Model   : Bernoulli
+  Scan For Areas With : Low Rates
+
+Output
+------
+  Main Results File                : C:\Users\diego.rincon\Desktop\R projects\medellin\RoblClus\RoblOutLo.txt
+  HTML file for Google Map         : No
+  KML file for Google Earth        : No
+  Shapefile for GIS software       : Yes
+  HTML file for Cartesian map      : No
+  Cluster Information              : No (ASCII), Yes (dBase)
+  Stratified Cluster Information   : No (ASCII), No (dBase)
+  Location Information             : No (ASCII), Yes (dBase)
+  Risk Estimates for Each Location : No (ASCII), No (dBase)
+  Simulated Log Likelihood Ratios  : No (ASCII), No (dBase)
+
+Data Checking
+-------------
+  Temporal Data Check     : Check to ensure that all cases and controls are within the specified temporal study period.
+  Geographical Data Check : Check to ensure that all observations (cases, controls and populations) are within the specified geographical area.
+
+Spatial Neighbors
+-----------------
+  Specify neighbors through a non-Euclidean neighbors file : No
+  Specify a meta location file                             : No
+  Observations with Multiple Locations                     : One location per observation.
+
+Locations Network
+-----------------
+  Use Locations Network File : No
+
+Spatial Window
+--------------
+  Maximum Spatial Cluster Size : 50 percent of population at risk
+  Window Shape                 : Circular
+  Isotonic Scan                : No
+
+Cluster Restrictions
+--------------------
+  Restrict Low Rate Clusters : No
+
+Inference
+---------
+  P-Value Reporting                  : Standard Monte Carlo
+  Number of Replications             : 999
+  Adjusting for More Likely Clusters : Yes
+  Maximum Number of Iterations       : 10
+  Iterative Scan Cluster Cutoff      : 0.05
+
+Drilldown
+---------
+  Same Design as Main Analysis : No
+
+Spatial Output
+--------------
+  Report Hierarchical Clusters              : Yes
+  Criteria for Reporting Secondary Clusters : No Geographical Overlap
+  Report Gini Optimized Cluster Collection  : No
+  Restrict Reporting to Smaller Clusters    : No
+
+Other Output
+------------
+  Report Critical Values  : No
+  Report Monte Carlo Rank : No
+  User Defined Title      : 
+
+Notifications
+-------------
+  Always Send Email                      : No
+  Send Email with Results Meeting Cutoff : No
+
+Run Options
+-----------
+  Processor Usage   : All Available Processors
+  Suppress Warnings : No
+  Logging Analysis  : No
+_______________________________________________________________________________________________
+
+RUN INFORMATION
+
+Program completed  : Tue Mar 17 12:24:29 2026
+Total Running Time : 0 seconds
+Processor Usage    : 24 processors

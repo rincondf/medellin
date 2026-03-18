@@ -1,0 +1,190 @@
+                                 _____________________________
+
+                                        SaTScan v10.3.3
+                                 _____________________________
+
+
+Program run on: Tue Mar 17 13:14:15 2026
+
+Purely Spatial analysis
+scanning for clusters with high rates
+using the Bernoulli model
+with iterative analyses for secondary clusters.
+_______________________________________________________________________________________________
+
+SUMMARY OF DATA
+
+Study period.......................: 2000/1/1 to 2000/12/31
+Number of locations................: 213
+Total population...................: 98
+Total number of cases..............: 90
+Percent cases......................: 91.8
+_______________________________________________________________________________________________
+
+CLUSTER DETECTED
+
+1.Location IDs included.: location201, location202, location200, location203, location209,
+                          location210, location199, location208, location204, location123,
+                          location198, location122, location207, location121, location106,
+                          location206, location120, location205, location124, location105,
+                          location119, location118, location134, location214, location212,
+                          location211, location131, location115, location130, location117,
+                          location104, location116, location213, location133, location107,
+                          location132, location103, location129, location114, location128,
+                          location108, location125, location113, location127, location109,
+                          location126, location110, location194, location195, location137,
+                          location138, location112, location197, location111, location196,
+                          location192, location152, location136, location193, location191,
+                          location190, location151, location182, location144, location189,
+                          location150, location143, location163, location145, location153
+  Coordinates / radius..: (6.290570 N, 75.556768 W) / 3.76 km
+  Span..................: 5.02 km
+  Population............: 48
+  Number of cases.......: 48
+  Expected cases........: 44.08
+  Observed / expected...: 1.09
+  Relative risk.........: 1.19
+  Percent cases in area.: 100.0
+  Log likelihood ratio..: 5.724916
+  P-value...............: 0.049
+_______________________________________________________________________________________________
+
+REMAINING DATA AFTER TOP CLUSTER REMOVED
+
+Number of locations................: 143
+Total population...................: 50
+Total number of cases..............: 42
+Percent cases......................: 84.0
+_______________________________________________________________________________________________
+
+CLUSTER DETECTED
+
+2.Location IDs included.: location188, location187, location186, location185, location184,
+                          location183, location164, location49, location50, location165,
+                          location162, location48, location167, location36, location166,
+                          location161, location37, location154, location47, location45,
+                          location44, location155, location160, location46, location43,
+                          location149, location75, location38, location67, location39,
+                          location68, location74, location148, location156, location159,
+                          location73, location42, location69, location16, location41,
+                          location92, location70, location14, location15
+  Coordinates / radius..: (6.259737 N, 75.579285 W) / 3.42 km
+  Span..................: 6.64 km
+  Population............: 21
+  Number of cases.......: 21
+  Expected cases........: 17.64
+  Observed / expected...: 1.19
+  Relative risk.........: 1.38
+  Percent cases in area.: 100.0
+  Log likelihood ratio..: 4.902418
+  P-value...............: 0.086
+_______________________________________________________________________________________________
+
+ADDITIONAL RESULTS FILES
+
+Shapefile            : C:\Users\diego.rincon\Desktop\R projects\medellin\AllClus\AllOutHi.col.shp
+Shapefile            : C:\Users\diego.rincon\Desktop\R projects\medellin\AllClus\AllOutHi.gis.shp
+Cluster Information  : C:\Users\diego.rincon\Desktop\R projects\medellin\AllClus\AllOutHi.col.dbf
+Location Information : C:\Users\diego.rincon\Desktop\R projects\medellin\AllClus\AllOutHi.gis.dbf
+_______________________________________________________________________________________________
+
+PARAMETER SETTINGS
+
+Input
+-----
+  Case File        : C:\Users\diego.rincon\All.cas
+  Control File     : C:\Users\diego.rincon\All.ctl
+  Time Precision   : None
+  Start Date       : 2000/1/1
+  End Date         : 2000/12/31
+  Coordinates File : C:\Users\diego.rincon\All.geo
+  Coordinates      : Latitude/Longitude
+
+Analysis
+--------
+  Type of Analysis    : Purely Spatial
+  Probability Model   : Bernoulli
+  Scan For Areas With : High Rates
+
+Output
+------
+  Main Results File                : C:\Users\diego.rincon\Desktop\R projects\medellin\AllClus\AllOutHi.txt
+  HTML file for Google Map         : No
+  KML file for Google Earth        : No
+  Shapefile for GIS software       : Yes
+  HTML file for Cartesian map      : No
+  Cluster Information              : No (ASCII), Yes (dBase)
+  Stratified Cluster Information   : No (ASCII), No (dBase)
+  Location Information             : No (ASCII), Yes (dBase)
+  Risk Estimates for Each Location : No (ASCII), No (dBase)
+  Simulated Log Likelihood Ratios  : No (ASCII), No (dBase)
+
+Data Checking
+-------------
+  Temporal Data Check     : Check to ensure that all cases and controls are within the specified temporal study period.
+  Geographical Data Check : Check to ensure that all observations (cases, controls and populations) are within the specified geographical area.
+
+Spatial Neighbors
+-----------------
+  Specify neighbors through a non-Euclidean neighbors file : No
+  Specify a meta location file                             : No
+  Observations with Multiple Locations                     : One location per observation.
+
+Locations Network
+-----------------
+  Use Locations Network File : No
+
+Spatial Window
+--------------
+  Maximum Spatial Cluster Size : 50 percent of population at risk
+  Window Shape                 : Circular
+  Isotonic Scan                : No
+
+Cluster Restrictions
+--------------------
+  Minimum Cases in Cluster for High Rates : 2
+  Restrict High Rate Clusters             : No
+
+Inference
+---------
+  P-Value Reporting                  : Standard Monte Carlo
+  Report Gumbel Based P-Values       : No
+  Number of Replications             : 999
+  Adjusting for More Likely Clusters : Yes
+  Maximum Number of Iterations       : 10
+  Iterative Scan Cluster Cutoff      : 0.05
+
+Drilldown
+---------
+  Same Design as Main Analysis : No
+
+Spatial Output
+--------------
+  Report Hierarchical Clusters              : Yes
+  Criteria for Reporting Secondary Clusters : No Geographical Overlap
+  Report Gini Optimized Cluster Collection  : No
+  Restrict Reporting to Smaller Clusters    : No
+
+Other Output
+------------
+  Report Critical Values  : No
+  Report Monte Carlo Rank : No
+  User Defined Title      : 
+
+Notifications
+-------------
+  Always Send Email                      : No
+  Send Email with Results Meeting Cutoff : No
+
+Run Options
+-----------
+  Processor Usage   : All Available Processors
+  Suppress Warnings : No
+  Logging Analysis  : No
+_______________________________________________________________________________________________
+
+RUN INFORMATION
+
+Program completed  : Tue Mar 17 13:14:15 2026
+Total Running Time : 0 seconds
+Processor Usage    : 24 processors

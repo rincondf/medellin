@@ -1,0 +1,342 @@
+                                 _____________________________
+
+                                        SaTScan v10.3.3
+                                 _____________________________
+
+
+Program run on: Tue Mar 17 13:53:11 2026
+
+Purely Spatial analysis
+scanning for clusters with low rates
+using the Bernoulli model
+with iterative analyses for secondary clusters.
+_______________________________________________________________________________________________
+
+SUMMARY OF DATA
+
+Study period.......................: 2000/1/1 to 2000/12/31
+Number of locations................: 213
+Total population...................: 8100
+Total number of cases..............: 6222
+Percent cases......................: 76.8
+_______________________________________________________________________________________________
+
+CLUSTER DETECTED
+
+1.Location IDs included.: location158, location173, location171, location170, location159,
+                          location180, location172, location160, location156, location168,
+                          location169, location157, location179, location166, location181,
+                          location167, location155, location161, location165, location177,
+                          location175, location174, location148, location154, location147,
+                          location178, location162, location176, location149, location153,
+                          location146, location183, location164, location140, location141,
+                          location163, location145, location150, location139, location142,
+                          location184
+  Coordinates / radius..: (6.278242 N, 75.605075 W) / 2.18 km
+  Span..................: 3.66 km
+  Population............: 1700
+  Number of cases.......: 766
+  Expected cases........: 1305.85
+  Observed / expected...: 0.59
+  Relative risk.........: 0.53
+  Percent cases in area.: 45.1
+  Log likelihood ratio..: 538.722333
+  P-value...............: 0.001
+_______________________________________________________________________________________________
+
+REMAINING DATA AFTER TOP CLUSTER REMOVED
+
+Number of locations................: 172
+Total population...................: 6400
+Total number of cases..............: 5456
+Percent cases......................: 85.2
+_______________________________________________________________________________________________
+
+CLUSTER DETECTED
+
+2.Location IDs included.: location27, location28, location26, location23, location25,
+                          location29, location24, location22, location55, location54,
+                          location21, location56, location30, location10, location9,
+                          location53, location31, location52, location57, location11,
+                          location58, location59, location12, location32, location33,
+                          location8, location7, location20, location61
+  Coordinates / radius..: (6.220722 N, 75.608608 W) / 1.51 km
+  Span..................: 2.87 km
+  Population............: 300
+  Number of cases.......: 100
+  Expected cases........: 255.75
+  Observed / expected...: 0.39
+  Relative risk.........: 0.38
+  Percent cases in area.: 33.3
+  Log likelihood ratio..: 224.432350
+  P-value...............: 0.001
+_______________________________________________________________________________________________
+
+REMAINING DATA AFTER TOP 2 CLUSTERS REMOVED
+
+Number of locations................: 143
+Total population...................: 6100
+Total number of cases..............: 5356
+Percent cases......................: 87.8
+_______________________________________________________________________________________________
+
+CLUSTER DETECTED
+
+3.Location IDs included.: location119, location116, location118, location120, location115,
+                          location117
+  Coordinates / radius..: (6.299080 N, 75.567632 W) / 0.53 km
+  Span..................: 1.01 km
+  Population............: 600
+  Number of cases.......: 325
+  Expected cases........: 526.82
+  Observed / expected...: 0.62
+  Relative risk.........: 0.59
+  Percent cases in area.: 54.2
+  Log likelihood ratio..: 245.196806
+  P-value...............: 0.001
+_______________________________________________________________________________________________
+
+REMAINING DATA AFTER TOP 3 CLUSTERS REMOVED
+
+Number of locations................: 137
+Total population...................: 5500
+Total number of cases..............: 5031
+Percent cases......................: 91.5
+_______________________________________________________________________________________________
+
+CLUSTER DETECTED
+
+4.Location IDs included.: location64
+  Coordinates / radius..: (6.205397 N, 75.602817 W) / 0 km
+  Span..................: 0 km
+  Population............: 100
+  Number of cases.......: 0
+  Expected cases........: 91.47
+  Observed / expected...: 0
+  Relative risk.........: 0
+  Percent cases in area.: 0
+  Log likelihood ratio..: 256.786949
+  P-value...............: 0.001
+_______________________________________________________________________________________________
+
+REMAINING DATA AFTER TOP 4 CLUSTERS REMOVED
+
+Number of locations................: 136
+Total population...................: 5400
+Total number of cases..............: 5031
+Percent cases......................: 93.2
+_______________________________________________________________________________________________
+
+CLUSTER DETECTED
+
+5.Location IDs included.: location77
+  Coordinates / radius..: (6.228782 N, 75.532882 W) / 0 km
+  Span..................: 0 km
+  Population............: 100
+  Number of cases.......: 0
+  Expected cases........: 93.17
+  Observed / expected...: 0
+  Relative risk.........: 0
+  Percent cases in area.: 0
+  Log likelihood ratio..: 282.377128
+  P-value...............: 0.001
+_______________________________________________________________________________________________
+
+REMAINING DATA AFTER TOP 5 CLUSTERS REMOVED
+
+Number of locations................: 135
+Total population...................: 5300
+Total number of cases..............: 5031
+Percent cases......................: 94.9
+_______________________________________________________________________________________________
+
+CLUSTER DETECTED
+
+6.Location IDs included.: location198, location199, location205
+  Coordinates / radius..: (6.296950 N, 75.550675 W) / 0.42 km
+  Span..................: 0.62 km
+  Population............: 200
+  Number of cases.......: 99
+  Expected cases........: 189.85
+  Observed / expected...: 0.52
+  Relative risk.........: 0.51
+  Percent cases in area.: 49.5
+  Log likelihood ratio..: 186.666086
+  P-value...............: 0.001
+_______________________________________________________________________________________________
+
+REMAINING DATA AFTER TOP 6 CLUSTERS REMOVED
+
+Number of locations................: 132
+Total population...................: 5100
+Total number of cases..............: 4932
+Percent cases......................: 96.7
+_______________________________________________________________________________________________
+
+CLUSTER DETECTED
+
+7.Location IDs included.: location210
+  Coordinates / radius..: (6.291973 N, 75.561887 W) / 0 km
+  Span..................: 0 km
+  Population............: 100
+  Number of cases.......: 66
+  Expected cases........: 96.71
+  Observed / expected...: 0.68
+  Relative risk.........: 0.68
+  Percent cases in area.: 66.0
+  Log likelihood ratio..: 57.306353
+  P-value...............: 0.001
+_______________________________________________________________________________________________
+
+REMAINING DATA AFTER TOP 7 CLUSTERS REMOVED
+
+Number of locations................: 131
+Total population...................: 5000
+Total number of cases..............: 4866
+Percent cases......................: 97.3
+_______________________________________________________________________________________________
+
+CLUSTER DETECTED
+
+8.Location IDs included.: location214
+  Coordinates / radius..: (6.304625 N, 75.554440 W) / 0 km
+  Span..................: 0 km
+  Population............: 100
+  Number of cases.......: 66
+  Expected cases........: 97.32
+  Observed / expected...: 0.68
+  Relative risk.........: 0.67
+  Percent cases in area.: 66.0
+  Log likelihood ratio..: 64.923339
+  P-value...............: 0.001
+_______________________________________________________________________________________________
+
+REMAINING DATA AFTER TOP 8 CLUSTERS REMOVED
+
+Number of locations................: 130
+Total population...................: 4900
+Total number of cases..............: 4800
+Percent cases......................: 98.0
+_______________________________________________________________________________________________
+
+CLUSTER DETECTED
+
+9.Location IDs included.: location107
+  Coordinates / radius..: (6.305893 N, 75.563685 W) / 0 km
+  Span..................: 0 km
+  Population............: 100
+  Number of cases.......: 75
+  Expected cases........: 97.96
+  Observed / expected...: 0.77
+  Relative risk.........: 0.76
+  Percent cases in area.: 75.0
+  Log likelihood ratio..: 45.593876
+  P-value...............: 0.001
+_______________________________________________________________________________________________
+
+ADDITIONAL RESULTS FILES
+
+Shapefile            : C:\Users\diego.rincon\Desktop\R projects\medellin\All_clus_ad\AllOut_AdLo.col.shp
+Shapefile            : C:\Users\diego.rincon\Desktop\R projects\medellin\All_clus_ad\AllOut_AdLo.gis.shp
+Cluster Information  : C:\Users\diego.rincon\Desktop\R projects\medellin\All_clus_ad\AllOut_AdLo.col.dbf
+Location Information : C:\Users\diego.rincon\Desktop\R projects\medellin\All_clus_ad\AllOut_AdLo.gis.dbf
+_______________________________________________________________________________________________
+
+PARAMETER SETTINGS
+
+Input
+-----
+  Case File        : C:\Users\diego.rincon\All_ad.cas
+  Control File     : C:\Users\diego.rincon\All_ad.ctl
+  Time Precision   : None
+  Start Date       : 2000/1/1
+  End Date         : 2000/12/31
+  Coordinates File : C:\Users\diego.rincon\All_ad.geo
+  Coordinates      : Latitude/Longitude
+
+Analysis
+--------
+  Type of Analysis    : Purely Spatial
+  Probability Model   : Bernoulli
+  Scan For Areas With : Low Rates
+
+Output
+------
+  Main Results File                : C:\Users\diego.rincon\Desktop\R projects\medellin\All_clus_ad\AllOut_AdLo.txt
+  HTML file for Google Map         : No
+  KML file for Google Earth        : No
+  Shapefile for GIS software       : Yes
+  HTML file for Cartesian map      : No
+  Cluster Information              : No (ASCII), Yes (dBase)
+  Stratified Cluster Information   : No (ASCII), No (dBase)
+  Location Information             : No (ASCII), Yes (dBase)
+  Risk Estimates for Each Location : No (ASCII), No (dBase)
+  Simulated Log Likelihood Ratios  : No (ASCII), No (dBase)
+
+Data Checking
+-------------
+  Temporal Data Check     : Check to ensure that all cases and controls are within the specified temporal study period.
+  Geographical Data Check : Check to ensure that all observations (cases, controls and populations) are within the specified geographical area.
+
+Spatial Neighbors
+-----------------
+  Specify neighbors through a non-Euclidean neighbors file : No
+  Specify a meta location file                             : No
+  Observations with Multiple Locations                     : One location per observation.
+
+Locations Network
+-----------------
+  Use Locations Network File : No
+
+Spatial Window
+--------------
+  Maximum Spatial Cluster Size : 50 percent of population at risk
+  Window Shape                 : Circular
+  Isotonic Scan                : No
+
+Cluster Restrictions
+--------------------
+  Restrict Low Rate Clusters : No
+
+Inference
+---------
+  P-Value Reporting                  : Standard Monte Carlo
+  Number of Replications             : 999
+  Adjusting for More Likely Clusters : Yes
+  Maximum Number of Iterations       : 9
+  Iterative Scan Cluster Cutoff      : 0.05
+
+Drilldown
+---------
+  Same Design as Main Analysis : No
+
+Spatial Output
+--------------
+  Report Hierarchical Clusters              : Yes
+  Criteria for Reporting Secondary Clusters : No Pairs of Centroids Both in Each Others Clusters
+  Report Gini Optimized Cluster Collection  : No
+  Restrict Reporting to Smaller Clusters    : No
+
+Other Output
+------------
+  Report Critical Values  : No
+  Report Monte Carlo Rank : No
+  User Defined Title      : 
+
+Notifications
+-------------
+  Always Send Email                      : No
+  Send Email with Results Meeting Cutoff : No
+
+Run Options
+-----------
+  Processor Usage   : All Available Processors
+  Suppress Warnings : No
+  Logging Analysis  : No
+_______________________________________________________________________________________________
+
+RUN INFORMATION
+
+Program completed  : Tue Mar 17 13:53:11 2026
+Total Running Time : 0 seconds
+Processor Usage    : 24 processors
